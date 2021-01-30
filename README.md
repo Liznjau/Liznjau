@@ -1,10 +1,9 @@
-## [![Simoniel_Musyoki's header](https://simonielmusyoki.com/images/user-thumb/musyox1.jpg)](https://simonielmusyoki.com/)
 
 <p align='center'>
-<a href="https://dev.to/simonielmusyoki"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/MusyokiMtk3"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/simonielmusyoki"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/simoniel-musyoki-06851b127/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/LizNjau"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Liznimmoh"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/elizabeth-wairimu-154aa4180/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there!👋🤓</h2>
@@ -32,10 +31,10 @@ I'm currently passionate about Web Development, Progressive Web Apps, Single Pag
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liznjau&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/SimonielMusyoki/React-Native-WhatsApp-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimonielMusyoki&repo=React-Native-WhatsApp-Clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Liznjau/Flutter-Ecommerce-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liznjau&repo=Flutter-Ecommerce-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/SimonielMusyoki/FoodDeliveryApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimonielMusyoki&repo=FoodDeliveryApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Liznjau/Northern-Transporters">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liznjau&repo=Northern-Transporters&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
